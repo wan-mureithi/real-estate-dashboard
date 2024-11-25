@@ -1,21 +1,13 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import RentalYieldByBedrooms from "../components/RentalYieldByBedrooms";
 import BreakEvenPeriodByCounty from "../components/BreakEvenPeriodByCounty";
 import PriceComparisonByBedrooms from "../components/PriceComparisonByBedrooms";
 import data from "../data/merged_data_combined.json";
-import HeatmapComparison from "../components/HeatmapComparison";
 
 const InvestorsDashboard = () => {
-  const [selectedCounty, setSelectedCounty] = useState("All");
   const bedroomOptions = [...new Set(data.map((item) => item.Bedrooms))];
   const [selectedBedroom, setSelectedBedroom] = useState(bedroomOptions[2]);
 
-  // Filter data by selected county
-//   const filteredData =
-//     selectedCounty === "All"
-//       ? data
-//       : data.filter((item) => item.County === selectedCounty);
-       // Filter data based on the selected bedroom count
   const filteredData = data.filter((item) => item.Bedrooms === selectedBedroom);
 
 

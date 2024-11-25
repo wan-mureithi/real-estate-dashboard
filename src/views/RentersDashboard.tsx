@@ -1,4 +1,4 @@
-import React,{ useState } from "react";
+import { useState } from "react";
 import Plot from "react-plotly.js";
 import RentByBedrooms from "../components/RentByBedrooms";
 import data from "../data/merged_data.json" 

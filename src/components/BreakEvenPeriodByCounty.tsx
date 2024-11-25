@@ -1,4 +1,3 @@
-import React from "react";
 import Plot from "react-plotly.js";
 
 const BreakEvenPeriodByCounty = ({ data }) => {
@@ -39,3 +38,4 @@ const BreakEvenPeriodByCounty = ({ data }) => {
     </div>
   );
 };
+export default BreakEvenPeriodByCounty;

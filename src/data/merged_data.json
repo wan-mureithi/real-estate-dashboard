@@ -1,0 +1,578 @@
+[
+    {
+        "County": "Kajiado",
+        "Type": "House",
+        "Bedrooms": 1,
+        "Price_sales": 13000000.0,
+        "Price_rent": 10000.0,
+        "Break even period(years)": 108.3333333333
+    },
+    {
+        "County": "Kajiado",
+        "Type": "House",
+        "Bedrooms": 2,
+        "Price_sales": 33080000.0,
+        "Price_rent": 35000.0,
+        "Break even period(years)": 78.7619047619
+    },
+    {
+        "County": "Kajiado",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 8046212.1200000001,
+        "Price_rent": 48333.33,
+        "Break even period(years)": 13.872780474
+    },
+    {
+        "County": "Kajiado",
+        "Type": "House",
+        "Bedrooms": 4,
+        "Price_sales": 13015714.2899999991,
+        "Price_rent": 76666.67,
+        "Break even period(years)": 14.1475149175
+    },
+    {
+        "County": "Kajiado",
+        "Type": "House",
+        "Bedrooms": 5,
+        "Price_sales": 26666600.0,
+        "Price_rent": 130000.0,
+        "Break even period(years)": 17.093974359
+    },
+    {
+        "County": "Kajiado",
+        "Type": "Townhouse",
+        "Bedrooms": 3,
+        "Price_sales": 10167647.0600000005,
+        "Price_rent": 70000.0,
+        "Break even period(years)": 12.1043417381
+    },
+    {
+        "County": "Kajiado",
+        "Type": "Townhouse",
+        "Bedrooms": 4,
+        "Price_sales": 16392857.1400000006,
+        "Price_rent": 100000.0,
+        "Break even period(years)": 13.6607142833
+    },
+    {
+        "County": "Kajiado",
+        "Type": "Villa",
+        "Bedrooms": 3,
+        "Price_sales": 11283333.3300000001,
+        "Price_rent": 40000.0,
+        "Break even period(years)": 23.5069444375
+    },
+    {
+        "County": "Kiambu",
+        "Type": "House",
+        "Bedrooms": 2,
+        "Price_sales": 900000.0,
+        "Price_rent": 125000.0,
+        "Break even period(years)": 0.6
+    },
+    {
+        "County": "Kiambu",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 10049090.8900000006,
+        "Price_rent": 88600.0,
+        "Break even period(years)": 9.4517408672
+    },
+    {
+        "County": "Kiambu",
+        "Type": "House",
+        "Bedrooms": 4,
+        "Price_sales": 23874561.3999999985,
+        "Price_rent": 142000.0,
+        "Break even period(years)": 14.0108928404
+    },
+    {
+        "County": "Kiambu",
+        "Type": "House",
+        "Bedrooms": 6,
+        "Price_sales": 40500000.0,
+        "Price_rent": 421000.0,
+        "Break even period(years)": 8.0166270784
+    },
+    {
+        "County": "Kiambu",
+        "Type": "Townhouse",
+        "Bedrooms": 3,
+        "Price_sales": 13781250.0,
+        "Price_rent": 65000.0,
+        "Break even period(years)": 17.6682692308
+    },
+    {
+        "County": "Kiambu",
+        "Type": "Townhouse",
+        "Bedrooms": 4,
+        "Price_sales": 20051818.1799999997,
+        "Price_rent": 166350.0,
+        "Break even period(years)": 10.0449945797
+    },
+    {
+        "County": "Kiambu",
+        "Type": "Townhouse",
+        "Bedrooms": 5,
+        "Price_sales": 20185714.2899999991,
+        "Price_rent": 350000.0,
+        "Break even period(years)": 4.80612245
+    },
+    {
+        "County": "Kiambu",
+        "Type": "Villa",
+        "Bedrooms": 4,
+        "Price_sales": 26359523.8099999987,
+        "Price_rent": 173750.0,
+        "Break even period(years)": 12.6424574628
+    },
+    {
+        "County": "Kiambu",
+        "Type": "Villa",
+        "Bedrooms": 6,
+        "Price_sales": 44666666.6700000018,
+        "Price_rent": 400000.0,
+        "Break even period(years)": 9.3055555563
+    },
+    {
+        "County": "Kilifi",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 39445461.5399999991,
+        "Price_rent": 115000.0,
+        "Break even period(years)": 28.5836677826
+    },
+    {
+        "County": "Kilifi",
+        "Type": "House",
+        "Bedrooms": 4,
+        "Price_sales": 78203514.8700000048,
+        "Price_rent": 266666.67,
+        "Break even period(years)": 24.4385980914
+    },
+    {
+        "County": "Kilifi",
+        "Type": "Townhouse",
+        "Bedrooms": 3,
+        "Price_sales": 11835185.1899999995,
+        "Price_rent": 113750.0,
+        "Break even period(years)": 8.6704653407
+    },
+    {
+        "County": "Kilifi",
+        "Type": "Townhouse",
+        "Bedrooms": 4,
+        "Price_sales": 15730000.0,
+        "Price_rent": 100000.0,
+        "Break even period(years)": 13.1083333333
+    },
+    {
+        "County": "Kilifi",
+        "Type": "Villa",
+        "Bedrooms": 2,
+        "Price_sales": 11250000.0,
+        "Price_rent": 8500.0,
+        "Break even period(years)": 110.2941176471
+    },
+    {
+        "County": "Kilifi",
+        "Type": "Villa",
+        "Bedrooms": 3,
+        "Price_sales": 40909090.9099999964,
+        "Price_rent": 49000.0,
+        "Break even period(years)": 69.5732838605
+    },
+    {
+        "County": "Kilifi",
+        "Type": "Villa",
+        "Bedrooms": 4,
+        "Price_sales": 56136363.6400000006,
+        "Price_rent": 250000.0,
+        "Break even period(years)": 18.7121212133
+    },
+    {
+        "County": "Kilifi",
+        "Type": "Villa",
+        "Bedrooms": 5,
+        "Price_sales": 76166666.6700000018,
+        "Price_rent": 120000.0,
+        "Break even period(years)": 52.8935185208
+    },
+    {
+        "County": "Kwale",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 24249750.0,
+        "Price_rent": 150000.0,
+        "Break even period(years)": 13.4720833333
+    },
+    {
+        "County": "Kwale",
+        "Type": "Villa",
+        "Bedrooms": 4,
+        "Price_sales": 31333166.6700000018,
+        "Price_rent": 30000.0,
+        "Break even period(years)": 87.0365740833
+    },
+    {
+        "County": "Laikipia",
+        "Type": "House",
+        "Bedrooms": 2,
+        "Price_sales": 6350000.0,
+        "Price_rent": 95000.0,
+        "Break even period(years)": 5.5701754386
+    },
+    {
+        "County": "Laikipia",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 27600000.0,
+        "Price_rent": 76666.67,
+        "Break even period(years)": 29.9999986957
+    },
+    {
+        "County": "Machakos",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 12066250.0,
+        "Price_rent": 59000.0,
+        "Break even period(years)": 17.0427259887
+    },
+    {
+        "County": "Machakos",
+        "Type": "House",
+        "Bedrooms": 4,
+        "Price_sales": 17902500.0,
+        "Price_rent": 50000.0,
+        "Break even period(years)": 29.8375
+    },
+    {
+        "County": "Machakos",
+        "Type": "House",
+        "Bedrooms": 5,
+        "Price_sales": 27500000.0,
+        "Price_rent": 220000.0,
+        "Break even period(years)": 10.4166666667
+    },
+    {
+        "County": "Machakos",
+        "Type": "Townhouse",
+        "Bedrooms": 3,
+        "Price_sales": 12714285.7100000009,
+        "Price_rent": 72500.0,
+        "Break even period(years)": 14.6141215057
+    },
+    {
+        "County": "Machakos",
+        "Type": "Townhouse",
+        "Bedrooms": 4,
+        "Price_sales": 19254545.4499999993,
+        "Price_rent": 175000.0,
+        "Break even period(years)": 9.1688311667
+    },
+    {
+        "County": "Machakos",
+        "Type": "Townhouse",
+        "Bedrooms": 5,
+        "Price_sales": 17000000.0,
+        "Price_rent": 135000.0,
+        "Break even period(years)": 10.4938271605
+    },
+    {
+        "County": "Mombasa",
+        "Type": "House",
+        "Bedrooms": 2,
+        "Price_sales": 12890000.0,
+        "Price_rent": 40000.0,
+        "Break even period(years)": 26.8541666667
+    },
+    {
+        "County": "Mombasa",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 29113636.3599999994,
+        "Price_rent": 59400.0,
+        "Break even period(years)": 40.8440465208
+    },
+    {
+        "County": "Mombasa",
+        "Type": "House",
+        "Bedrooms": 4,
+        "Price_sales": 57890909.0900000036,
+        "Price_rent": 146666.67,
+        "Break even period(years)": 32.8925612354
+    },
+    {
+        "County": "Mombasa",
+        "Type": "House",
+        "Bedrooms": 5,
+        "Price_sales": 79979166.6700000018,
+        "Price_rent": 200714.29,
+        "Break even period(years)": 33.2060589998
+    },
+    {
+        "County": "Mombasa",
+        "Type": "House",
+        "Bedrooms": 6,
+        "Price_sales": 103700000.0,
+        "Price_rent": 380000.0,
+        "Break even period(years)": 22.7412280702
+    },
+    {
+        "County": "Mombasa",
+        "Type": "House",
+        "Bedrooms": 7,
+        "Price_sales": 107500000.0,
+        "Price_rent": 270000.0,
+        "Break even period(years)": 33.1790123457
+    },
+    {
+        "County": "Mombasa",
+        "Type": "House",
+        "Bedrooms": 8,
+        "Price_sales": 85000000.0,
+        "Price_rent": 250000.0,
+        "Break even period(years)": 28.3333333333
+    },
+    {
+        "County": "Mombasa",
+        "Type": "House",
+        "Bedrooms": 10,
+        "Price_sales": 37285714.2899999991,
+        "Price_rent": 230000.0,
+        "Break even period(years)": 13.5093167717
+    },
+    {
+        "County": "Mombasa",
+        "Type": "Townhouse",
+        "Bedrooms": 3,
+        "Price_sales": 19592500.0,
+        "Price_rent": 83333.33,
+        "Break even period(years)": 19.5925007837
+    },
+    {
+        "County": "Mombasa",
+        "Type": "Townhouse",
+        "Bedrooms": 4,
+        "Price_sales": 38392888.8900000006,
+        "Price_rent": 145625.0,
+        "Break even period(years)": 21.9701796223
+    },
+    {
+        "County": "Mombasa",
+        "Type": "Townhouse",
+        "Bedrooms": 5,
+        "Price_sales": 54000000.0,
+        "Price_rent": 85000.0,
+        "Break even period(years)": 52.9411764706
+    },
+    {
+        "County": "Mombasa",
+        "Type": "Villa",
+        "Bedrooms": 3,
+        "Price_sales": 19550000.0,
+        "Price_rent": 58333.33,
+        "Break even period(years)": 27.9285730245
+    },
+    {
+        "County": "Mombasa",
+        "Type": "Villa",
+        "Bedrooms": 4,
+        "Price_sales": 55353225.8100000024,
+        "Price_rent": 129000.0,
+        "Break even period(years)": 35.7578978101
+    },
+    {
+        "County": "Mombasa",
+        "Type": "Villa",
+        "Bedrooms": 5,
+        "Price_sales": 106857142.8599999994,
+        "Price_rent": 210714.29,
+        "Break even period(years)": 42.2598861473
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 1,
+        "Price_sales": 8500000.0,
+        "Price_rent": 97716.07,
+        "Break even period(years)": 7.2488929746
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 2,
+        "Price_sales": 25125000.0,
+        "Price_rent": 187266.92,
+        "Break even period(years)": 11.1805651527
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 38450000.0,
+        "Price_rent": 272478.12,
+        "Break even period(years)": 11.7593539865
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 4,
+        "Price_sales": 95048192.0,
+        "Price_rent": 388247.48,
+        "Break even period(years)": 20.401118036
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 5,
+        "Price_sales": 144166403.5800000131,
+        "Price_rent": 472530.22,
+        "Break even period(years)": 25.424547376
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 6,
+        "Price_sales": 172636363.6399999857,
+        "Price_rent": 679334.53,
+        "Break even period(years)": 21.1771417488
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 7,
+        "Price_sales": 203225000.0,
+        "Price_rent": 771784.33,
+        "Break even period(years)": 21.9431983889
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 8,
+        "Price_sales": 200000000.0,
+        "Price_rent": 700000.0,
+        "Break even period(years)": 23.8095238095
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 9,
+        "Price_sales": 228875000.0,
+        "Price_rent": 575000.0,
+        "Break even period(years)": 33.1702898551
+    },
+    {
+        "County": "Nairobi",
+        "Type": "House",
+        "Bedrooms": 10,
+        "Price_sales": 146250000.0,
+        "Price_rent": 575000.0,
+        "Break even period(years)": 21.1956521739
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Townhouse",
+        "Bedrooms": 2,
+        "Price_sales": 96000000.0,
+        "Price_rent": 218125.0,
+        "Break even period(years)": 36.676217765
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Townhouse",
+        "Bedrooms": 3,
+        "Price_sales": 30898333.2699999996,
+        "Price_rent": 254536.59,
+        "Break even period(years)": 10.1158780584
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Townhouse",
+        "Bedrooms": 4,
+        "Price_sales": 61551136.3599999994,
+        "Price_rent": 314388.13,
+        "Break even period(years)": 16.315060506
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Townhouse",
+        "Bedrooms": 5,
+        "Price_sales": 89480927.8400000036,
+        "Price_rent": 389761.83,
+        "Break even period(years)": 19.1315398603
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Townhouse",
+        "Bedrooms": 6,
+        "Price_sales": 102370869.5699999928,
+        "Price_rent": 474615.38,
+        "Break even period(years)": 17.974355988
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Townhouse",
+        "Bedrooms": 7,
+        "Price_sales": 146250000.0,
+        "Price_rent": 639000.0,
+        "Break even period(years)": 19.0727699531
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Villa",
+        "Bedrooms": 3,
+        "Price_sales": 51316666.6700000018,
+        "Price_rent": 283375.0,
+        "Break even period(years)": 15.0909180032
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Villa",
+        "Bedrooms": 4,
+        "Price_sales": 76368461.5400000066,
+        "Price_rent": 380818.18,
+        "Break even period(years)": 16.7114880431
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Villa",
+        "Bedrooms": 5,
+        "Price_sales": 111672857.1400000006,
+        "Price_rent": 518252.14,
+        "Break even period(years)": 17.9566483379
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Villa",
+        "Bedrooms": 6,
+        "Price_sales": 148666666.6699999869,
+        "Price_rent": 511666.67,
+        "Break even period(years)": 24.2128120035
+    },
+    {
+        "County": "Nairobi",
+        "Type": "Villa",
+        "Bedrooms": 7,
+        "Price_sales": 315500000.0,
+        "Price_rent": 460000.0,
+        "Break even period(years)": 57.1557971014
+    },
+    {
+        "County": "Nakuru",
+        "Type": "House",
+        "Bedrooms": 2,
+        "Price_sales": 34000000.0,
+        "Price_rent": 45000.0,
+        "Break even period(years)": 62.962962963
+    },
+    {
+        "County": "Nakuru",
+        "Type": "House",
+        "Bedrooms": 3,
+        "Price_sales": 5790000.0,
+        "Price_rent": 100000.0,
+        "Break even period(years)": 4.825
+    }
+]

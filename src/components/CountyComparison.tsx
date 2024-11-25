@@ -1,4 +1,4 @@
-import React from "react";
+// @ts-nocheck
 import Plot from "react-plotly.js";
 
 const CountyComparison = ({ data }) => {

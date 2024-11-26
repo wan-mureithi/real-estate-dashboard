@@ -9,8 +9,8 @@ const BreakEvenChart = ({ data }) => {
   const lineData = counties.map((county) => {
     const countyData = data.filter((d) => d.County === county);
     return {
-      x: countyData.map((d) => d.Bedrooms), // Number of Bedrooms
-      y: countyData.map((d) => d["Break even period(years)"]), // Break-even Period
+      x: countyData.map((d) => d.Type),
+      y: countyData.map((d) => d["Break even period(years)"]),
       type: "scatter",
       mode: "lines+markers",
       name: county,
@@ -19,13 +19,13 @@ const BreakEvenChart = ({ data }) => {
 
   return (
     <div>
-      <h3>Break-even Period by Bedrooms</h3>
+      {/* <h3>Break-even Period by Bedrooms</h3> */}
       <Plot
-      style={{ width:'600px'}}
+      //style={{ width:'600px'}}
         data={lineData}
         layout={{
           title: "Break-even Period (Rent vs Buy)",
-          xaxis: { title: "Number of Bedrooms" },
+          xaxis: { title: "Property type" },
           yaxis: { title: "Break-even Period (years)" },
         }}
       />

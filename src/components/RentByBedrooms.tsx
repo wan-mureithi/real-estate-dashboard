@@ -7,7 +7,7 @@ const RentByBedrooms = ({data}) => {
   const barData = counties.map((county) => {
     const countyData = data.filter((d) => d.County === county);
     return {
-      x: countyData.map((d) => d.Bedrooms),
+      x: countyData.map((d) => d.Type),
       y: countyData.map((d) => d.Price_rent),
       type: "bar",
       name: county,
@@ -16,12 +16,12 @@ const RentByBedrooms = ({data}) => {
 
   return (
     <div>
-      <h3>Average Rental Prices by Bedrooms</h3>
+      {/* <h3>Average Rental Prices by Bedrooms</h3> */}
       <Plot
         data={barData}
         layout={{
           title: "Rental Prices by Bedrooms and County",
-          xaxis: { title: "Number of Bedrooms" },
+          xaxis: { title: "Property type" },
           yaxis: { title: "Rental Price (KES)" },
           barmode: "group",
         }}

@@ -10,7 +10,7 @@ const CountyComparison = ({ data }) => {
     const countyData = data.filter((d) => d.County === county);
     return {
       x: countyData.map((d) => d.Price_rent), // Rental Prices
-      y: countyData.map((d) => `${county} (${d.Bedrooms} BR)`), // County with Bedrooms
+      y: countyData.map((d) => `${county} `), // County with Bedrooms
       type: "bar",
       orientation: "h",
       name: county,
@@ -21,7 +21,7 @@ const CountyComparison = ({ data }) => {
     <div>
       <Plot
         data={barData}
-        style={{ width:'750px'}}
+       // style={{ width:'750px'}}
         layout={{
             title: "County-wise Rental Price Comparison",
             xaxis: {

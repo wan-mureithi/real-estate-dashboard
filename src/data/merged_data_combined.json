@@ -6,7 +6,10 @@
         "Price_sales": 13000000.0,
         "Price_rent": 10000.0,
         "Break even period(years)": 108.3333333333,
-        "Yield": 0.9230769231
+        "Yield": 0.9230769231,
+        "Total_Population19": 1117840,
+        "Av_HH_Size": 4,
+        "Population Density": 51
     },
     {
         "County": "Kajiado",
@@ -15,7 +18,10 @@
         "Price_sales": 33080000.0,
         "Price_rent": 35000.0,
         "Break even period(years)": 78.7619047619,
-        "Yield": 1.2696493349
+        "Yield": 1.2696493349,
+        "Total_Population19": 1117840,
+        "Av_HH_Size": 4,
+        "Population Density": 51
     },
     {
         "County": "Kajiado",
@@ -24,7 +30,10 @@
         "Price_sales": 8046212.1200000001,
         "Price_rent": 48333.33,
         "Break even period(years)": 13.872780474,
-        "Yield": 7.2083602986
+        "Yield": 7.2083602986,
+        "Total_Population19": 1117840,
+        "Av_HH_Size": 4,
+        "Population Density": 51
     },
     {
         "County": "Kajiado",
@@ -33,7 +42,10 @@
         "Price_sales": 13015714.2899999991,
         "Price_rent": 76666.67,
         "Break even period(years)": 14.1475149175,
-        "Yield": 7.0683791877
+        "Yield": 7.0683791877,
+        "Total_Population19": 1117840,
+        "Av_HH_Size": 4,
+        "Population Density": 51
     },
     {
         "County": "Kajiado",
@@ -42,7 +54,10 @@
         "Price_sales": 26666600.0,
         "Price_rent": 130000.0,
         "Break even period(years)": 17.093974359,
-        "Yield": 5.850014625
+        "Yield": 5.850014625,
+        "Total_Population19": 1117840,
+        "Av_HH_Size": 4,
+        "Population Density": 51
     },
     {
         "County": "Kajiado",
@@ -51,7 +66,10 @@
         "Price_sales": 10167647.0600000005,
         "Price_rent": 70000.0,
         "Break even period(years)": 12.1043417381,
-        "Yield": 8.2614984081
+        "Yield": 8.2614984081,
+        "Total_Population19": 1117840,
+        "Av_HH_Size": 4,
+        "Population Density": 51
     },
     {
         "County": "Kajiado",
@@ -60,7 +78,10 @@
         "Price_sales": 16392857.1400000006,
         "Price_rent": 100000.0,
         "Break even period(years)": 13.6607142833,
-        "Yield": 7.3202614392
+        "Yield": 7.3202614392,
+        "Total_Population19": 1117840,
+        "Av_HH_Size": 4,
+        "Population Density": 51
     },
     {
         "County": "Kajiado",
@@ -69,7 +90,10 @@
         "Price_sales": 11283333.3300000001,
         "Price_rent": 40000.0,
         "Break even period(years)": 23.5069444375,
-        "Yield": 4.2540620397
+        "Yield": 4.2540620397,
+        "Total_Population19": 1117840,
+        "Av_HH_Size": 4,
+        "Population Density": 51
     },
     {
         "County": "Kiambu",
@@ -78,7 +102,10 @@
         "Price_sales": 900000.0,
         "Price_rent": 125000.0,
         "Break even period(years)": 0.6,
-        "Yield": 166.6666666667
+        "Yield": 166.6666666667,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kiambu",
@@ -87,7 +114,10 @@
         "Price_sales": 10049090.8900000006,
         "Price_rent": 88600.0,
         "Break even period(years)": 9.4517408672,
-        "Yield": 10.5800615363
+        "Yield": 10.5800615363,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kiambu",
@@ -96,7 +126,10 @@
         "Price_sales": 23874561.3999999985,
         "Price_rent": 142000.0,
         "Break even period(years)": 14.0108928404,
-        "Yield": 7.137303892
+        "Yield": 7.137303892,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kiambu",
@@ -105,7 +138,10 @@
         "Price_sales": 40500000.0,
         "Price_rent": 421000.0,
         "Break even period(years)": 8.0166270784,
-        "Yield": 12.4740740741
+        "Yield": 12.4740740741,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kiambu",
@@ -114,7 +150,10 @@
         "Price_sales": 13781250.0,
         "Price_rent": 65000.0,
         "Break even period(years)": 17.6682692308,
-        "Yield": 5.6598639456
+        "Yield": 5.6598639456,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kiambu",
@@ -123,7 +162,10 @@
         "Price_sales": 20051818.1799999997,
         "Price_rent": 166350.0,
         "Break even period(years)": 10.0449945797,
-        "Yield": 9.9552069647
+        "Yield": 9.9552069647,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kiambu",
@@ -132,7 +174,10 @@
         "Price_sales": 20185714.2899999991,
         "Price_rent": 350000.0,
         "Break even period(years)": 4.80612245,
-        "Yield": 20.8067940508
+        "Yield": 20.8067940508,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kiambu",
@@ -141,7 +186,10 @@
         "Price_sales": 26359523.8099999987,
         "Price_rent": 173750.0,
         "Break even period(years)": 12.6424574628,
-        "Yield": 7.9098545749
+        "Yield": 7.9098545749,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kiambu",
@@ -150,7 +198,10 @@
         "Price_sales": 44666666.6700000018,
         "Price_rent": 400000.0,
         "Break even period(years)": 9.3055555563,
-        "Yield": 10.7462686559
+        "Yield": 10.7462686559,
+        "Total_Population19": 2417735,
+        "Av_HH_Size": 3,
+        "Population Density": 952
     },
     {
         "County": "Kilifi",
@@ -159,7 +210,10 @@
         "Price_sales": 39445461.5399999991,
         "Price_rent": 115000.0,
         "Break even period(years)": 28.5836677826,
-        "Yield": 3.4985013386
+        "Yield": 3.4985013386,
+        "Total_Population19": 1453787,
+        "Av_HH_Size": 5,
+        "Population Density": 116
     },
     {
         "County": "Kilifi",
@@ -168,7 +222,10 @@
         "Price_sales": 78203514.8700000048,
         "Price_rent": 266666.67,
         "Break even period(years)": 24.4385980914,
-        "Yield": 4.0918877436
+        "Yield": 4.0918877436,
+        "Total_Population19": 1453787,
+        "Av_HH_Size": 5,
+        "Population Density": 116
     },
     {
         "County": "Kilifi",
@@ -177,7 +234,10 @@
         "Price_sales": 11835185.1899999995,
         "Price_rent": 113750.0,
         "Break even period(years)": 8.6704653407,
-        "Yield": 11.533406348
+        "Yield": 11.533406348,
+        "Total_Population19": 1453787,
+        "Av_HH_Size": 5,
+        "Population Density": 116
     },
     {
         "County": "Kilifi",
@@ -186,7 +246,10 @@
         "Price_sales": 15730000.0,
         "Price_rent": 100000.0,
         "Break even period(years)": 13.1083333333,
-        "Yield": 7.6287349015
+        "Yield": 7.6287349015,
+        "Total_Population19": 1453787,
+        "Av_HH_Size": 5,
+        "Population Density": 116
     },
     {
         "County": "Kilifi",
@@ -195,7 +258,10 @@
         "Price_sales": 11250000.0,
         "Price_rent": 8500.0,
         "Break even period(years)": 110.2941176471,
-        "Yield": 0.9066666667
+        "Yield": 0.9066666667,
+        "Total_Population19": 1453787,
+        "Av_HH_Size": 5,
+        "Population Density": 116
     },
     {
         "County": "Kilifi",
@@ -204,7 +270,10 @@
         "Price_sales": 40909090.9099999964,
         "Price_rent": 49000.0,
         "Break even period(years)": 69.5732838605,
-        "Yield": 1.4373333333
+        "Yield": 1.4373333333,
+        "Total_Population19": 1453787,
+        "Av_HH_Size": 5,
+        "Population Density": 116
     },
     {
         "County": "Kilifi",
@@ -213,7 +282,10 @@
         "Price_sales": 56136363.6400000006,
         "Price_rent": 250000.0,
         "Break even period(years)": 18.7121212133,
-        "Yield": 5.3441295543
+        "Yield": 5.3441295543,
+        "Total_Population19": 1453787,
+        "Av_HH_Size": 5,
+        "Population Density": 116
     },
     {
         "County": "Kilifi",
@@ -222,7 +294,10 @@
         "Price_sales": 76166666.6700000018,
         "Price_rent": 120000.0,
         "Break even period(years)": 52.8935185208,
-        "Yield": 1.8905908095
+        "Yield": 1.8905908095,
+        "Total_Population19": 1453787,
+        "Av_HH_Size": 5,
+        "Population Density": 116
     },
     {
         "County": "Kwale",
@@ -231,7 +306,10 @@
         "Price_sales": 24249750.0,
         "Price_rent": 150000.0,
         "Break even period(years)": 13.4720833333,
-        "Yield": 7.4227569356
+        "Yield": 7.4227569356,
+        "Total_Population19": 866820,
+        "Av_HH_Size": 5,
+        "Population Density": 105
     },
     {
         "County": "Kwale",
@@ -240,7 +318,10 @@
         "Price_sales": 31333166.6700000018,
         "Price_rent": 30000.0,
         "Break even period(years)": 87.0365740833,
-        "Yield": 1.1489422815
+        "Yield": 1.1489422815,
+        "Total_Population19": 866820,
+        "Av_HH_Size": 5,
+        "Population Density": 105
     },
     {
         "County": "Laikipia",
@@ -249,7 +330,10 @@
         "Price_sales": 6350000.0,
         "Price_rent": 95000.0,
         "Break even period(years)": 5.5701754386,
-        "Yield": 17.9527559055
+        "Yield": 17.9527559055,
+        "Total_Population19": 518580,
+        "Av_HH_Size": 3,
+        "Population Density": 54
     },
     {
         "County": "Laikipia",
@@ -258,7 +342,10 @@
         "Price_sales": 27600000.0,
         "Price_rent": 76666.67,
         "Break even period(years)": 29.9999986957,
-        "Yield": 3.3333334783
+        "Yield": 3.3333334783,
+        "Total_Population19": 518580,
+        "Av_HH_Size": 3,
+        "Population Density": 54
     },
     {
         "County": "Machakos",
@@ -267,7 +354,10 @@
         "Price_sales": 12066250.0,
         "Price_rent": 59000.0,
         "Break even period(years)": 17.0427259887,
-        "Yield": 5.8676059256
+        "Yield": 5.8676059256,
+        "Total_Population19": 1421932,
+        "Av_HH_Size": 4,
+        "Population Density": 235
     },
     {
         "County": "Machakos",
@@ -276,7 +366,10 @@
         "Price_sales": 17902500.0,
         "Price_rent": 50000.0,
         "Break even period(years)": 29.8375,
-        "Yield": 3.3514872225
+        "Yield": 3.3514872225,
+        "Total_Population19": 1421932,
+        "Av_HH_Size": 4,
+        "Population Density": 235
     },
     {
         "County": "Machakos",
@@ -285,7 +378,10 @@
         "Price_sales": 27500000.0,
         "Price_rent": 220000.0,
         "Break even period(years)": 10.4166666667,
-        "Yield": 9.6
+        "Yield": 9.6,
+        "Total_Population19": 1421932,
+        "Av_HH_Size": 4,
+        "Population Density": 235
     },
     {
         "County": "Machakos",
@@ -294,7 +390,10 @@
         "Price_sales": 12714285.7100000009,
         "Price_rent": 72500.0,
         "Break even period(years)": 14.6141215057,
-        "Yield": 6.8426966315
+        "Yield": 6.8426966315,
+        "Total_Population19": 1421932,
+        "Av_HH_Size": 4,
+        "Population Density": 235
     },
     {
         "County": "Machakos",
@@ -303,7 +402,10 @@
         "Price_sales": 19254545.4499999993,
         "Price_rent": 175000.0,
         "Break even period(years)": 9.1688311667,
-        "Yield": 10.9065155833
+        "Yield": 10.9065155833,
+        "Total_Population19": 1421932,
+        "Av_HH_Size": 4,
+        "Population Density": 235
     },
     {
         "County": "Machakos",
@@ -312,7 +414,10 @@
         "Price_sales": 17000000.0,
         "Price_rent": 135000.0,
         "Break even period(years)": 10.4938271605,
-        "Yield": 9.5294117647
+        "Yield": 9.5294117647,
+        "Total_Population19": 1421932,
+        "Av_HH_Size": 4,
+        "Population Density": 235
     },
     {
         "County": "Mombasa",
@@ -321,7 +426,10 @@
         "Price_sales": 12890000.0,
         "Price_rent": 40000.0,
         "Break even period(years)": 26.8541666667,
-        "Yield": 3.7238169123
+        "Yield": 3.7238169123,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -330,7 +438,10 @@
         "Price_sales": 29113636.3599999994,
         "Price_rent": 59400.0,
         "Break even period(years)": 40.8440465208,
-        "Yield": 2.4483372368
+        "Yield": 2.4483372368,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -339,7 +450,10 @@
         "Price_sales": 57890909.0900000036,
         "Price_rent": 146666.67,
         "Break even period(years)": 32.8925612354,
-        "Yield": 3.0402010742
+        "Yield": 3.0402010742,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -348,7 +462,10 @@
         "Price_sales": 79979166.6700000018,
         "Price_rent": 200714.29,
         "Break even period(years)": 33.2060589998,
-        "Yield": 3.0114985943
+        "Yield": 3.0114985943,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -357,7 +474,10 @@
         "Price_sales": 103700000.0,
         "Price_rent": 380000.0,
         "Break even period(years)": 22.7412280702,
-        "Yield": 4.3972999036
+        "Yield": 4.3972999036,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -366,7 +486,10 @@
         "Price_sales": 107500000.0,
         "Price_rent": 270000.0,
         "Break even period(years)": 33.1790123457,
-        "Yield": 3.0139534884
+        "Yield": 3.0139534884,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -375,7 +498,10 @@
         "Price_sales": 85000000.0,
         "Price_rent": 250000.0,
         "Break even period(years)": 28.3333333333,
-        "Yield": 3.5294117647
+        "Yield": 3.5294117647,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -384,7 +510,10 @@
         "Price_sales": 37285714.2899999991,
         "Price_rent": 230000.0,
         "Break even period(years)": 13.5093167717,
-        "Yield": 7.4022988497
+        "Yield": 7.4022988497,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -393,7 +522,10 @@
         "Price_sales": 19592500.0,
         "Price_rent": 83333.33,
         "Break even period(years)": 19.5925007837,
-        "Yield": 5.103993671
+        "Yield": 5.103993671,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -402,7 +534,10 @@
         "Price_sales": 38392888.8900000006,
         "Price_rent": 145625.0,
         "Break even period(years)": 21.9701796223,
-        "Yield": 4.5516241432
+        "Yield": 4.5516241432,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -411,7 +546,10 @@
         "Price_sales": 54000000.0,
         "Price_rent": 85000.0,
         "Break even period(years)": 52.9411764706,
-        "Yield": 1.8888888889
+        "Yield": 1.8888888889,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -420,7 +558,10 @@
         "Price_sales": 19550000.0,
         "Price_rent": 58333.33,
         "Break even period(years)": 27.9285730245,
-        "Yield": 3.5805624552
+        "Yield": 3.5805624552,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -429,7 +570,10 @@
         "Price_sales": 55353225.8100000024,
         "Price_rent": 129000.0,
         "Break even period(years)": 35.7578978101,
-        "Yield": 2.7965849819
+        "Yield": 2.7965849819,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Mombasa",
@@ -438,7 +582,10 @@
         "Price_sales": 106857142.8599999994,
         "Price_rent": 210714.29,
         "Break even period(years)": 42.2598861473,
-        "Yield": 2.3663102085
+        "Yield": 2.3663102085,
+        "Total_Population19": 1208333,
+        "Av_HH_Size": 3,
+        "Population Density": 5495
     },
     {
         "County": "Nairobi",
@@ -447,7 +594,10 @@
         "Price_sales": 8500000.0,
         "Price_rent": 97716.07,
         "Break even period(years)": 7.2488929746,
-        "Yield": 13.7952098824
+        "Yield": 13.7952098824,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -456,7 +606,10 @@
         "Price_sales": 25125000.0,
         "Price_rent": 187266.92,
         "Break even period(years)": 11.1805651527,
-        "Yield": 8.9440917015
+        "Yield": 8.9440917015,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -465,7 +618,10 @@
         "Price_sales": 38450000.0,
         "Price_rent": 272478.12,
         "Break even period(years)": 11.7593539865,
-        "Yield": 8.5038685046
+        "Yield": 8.5038685046,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -474,7 +630,10 @@
         "Price_sales": 95048192.0,
         "Price_rent": 388247.48,
         "Break even period(years)": 20.401118036,
-        "Yield": 4.9016921437
+        "Yield": 4.9016921437,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -483,7 +642,10 @@
         "Price_sales": 144166403.5800000131,
         "Price_rent": 472530.22,
         "Break even period(years)": 25.424547376,
-        "Yield": 3.9332066967
+        "Yield": 3.9332066967,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -492,7 +654,10 @@
         "Price_sales": 172636363.6399999857,
         "Price_rent": 679334.53,
         "Break even period(years)": 21.1771417488,
-        "Yield": 4.7220725623
+        "Yield": 4.7220725623,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -501,7 +666,10 @@
         "Price_sales": 203225000.0,
         "Price_rent": 771784.33,
         "Break even period(years)": 21.9431983889,
-        "Yield": 4.5572207947
+        "Yield": 4.5572207947,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -510,7 +678,10 @@
         "Price_sales": 200000000.0,
         "Price_rent": 700000.0,
         "Break even period(years)": 23.8095238095,
-        "Yield": 4.2
+        "Yield": 4.2,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -519,7 +690,10 @@
         "Price_sales": 228875000.0,
         "Price_rent": 575000.0,
         "Break even period(years)": 33.1702898551,
-        "Yield": 3.0147460404
+        "Yield": 3.0147460404,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -528,7 +702,10 @@
         "Price_sales": 146250000.0,
         "Price_rent": 575000.0,
         "Break even period(years)": 21.1956521739,
-        "Yield": 4.7179487179
+        "Yield": 4.7179487179,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -537,7 +714,10 @@
         "Price_sales": 96000000.0,
         "Price_rent": 218125.0,
         "Break even period(years)": 36.676217765,
-        "Yield": 2.7265625
+        "Yield": 2.7265625,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -546,7 +726,10 @@
         "Price_sales": 30898333.2699999996,
         "Price_rent": 254536.59,
         "Break even period(years)": 10.1158780584,
-        "Yield": 9.8854493325
+        "Yield": 9.8854493325,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -555,7 +738,10 @@
         "Price_sales": 61551136.3599999994,
         "Price_rent": 314388.13,
         "Break even period(years)": 16.315060506,
-        "Yield": 6.1293061073
+        "Yield": 6.1293061073,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -564,7 +750,10 @@
         "Price_sales": 89480927.8400000036,
         "Price_rent": 389761.83,
         "Break even period(years)": 19.1315398603,
-        "Yield": 5.2269707891
+        "Yield": 5.2269707891,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -573,7 +762,10 @@
         "Price_sales": 102370869.5699999928,
         "Price_rent": 474615.38,
         "Break even period(years)": 17.974355988,
-        "Yield": 5.5634816661
+        "Yield": 5.5634816661,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -582,7 +774,10 @@
         "Price_sales": 146250000.0,
         "Price_rent": 639000.0,
         "Break even period(years)": 19.0727699531,
-        "Yield": 5.2430769231
+        "Yield": 5.2430769231,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -591,7 +786,10 @@
         "Price_sales": 51316666.6700000018,
         "Price_rent": 283375.0,
         "Break even period(years)": 15.0909180032,
-        "Yield": 6.6265021106
+        "Yield": 6.6265021106,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -600,7 +798,10 @@
         "Price_sales": 76368461.5400000066,
         "Price_rent": 380818.18,
         "Break even period(years)": 16.7114880431,
-        "Yield": 5.9839075815
+        "Yield": 5.9839075815,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -609,7 +810,10 @@
         "Price_sales": 111672857.1400000006,
         "Price_rent": 518252.14,
         "Break even period(years)": 17.9566483379,
-        "Yield": 5.5689680011
+        "Yield": 5.5689680011,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -618,7 +822,10 @@
         "Price_sales": 148666666.6699999869,
         "Price_rent": 511666.67,
         "Break even period(years)": 24.2128120035,
-        "Yield": 4.1300448699
+        "Yield": 4.1300448699,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nairobi",
@@ -627,7 +834,10 @@
         "Price_sales": 315500000.0,
         "Price_rent": 460000.0,
         "Break even period(years)": 57.1557971014,
-        "Yield": 1.7496038035
+        "Yield": 1.7496038035,
+        "Total_Population19": 4397073,
+        "Av_HH_Size": 3,
+        "Population Density": 6247
     },
     {
         "County": "Nakuru",
@@ -636,7 +846,10 @@
         "Price_sales": 34000000.0,
         "Price_rent": 45000.0,
         "Break even period(years)": 62.962962963,
-        "Yield": 1.5882352941
+        "Yield": 1.5882352941,
+        "Total_Population19": 2162202,
+        "Av_HH_Size": 4,
+        "Population Density": 290
     },
     {
         "County": "Nakuru",
@@ -645,6 +858,9 @@
         "Price_sales": 5790000.0,
         "Price_rent": 100000.0,
         "Break even period(years)": 4.825,
-        "Yield": 20.725388601
+        "Yield": 20.725388601,
+        "Total_Population19": 2162202,
+        "Av_HH_Size": 4,
+        "Population Density": 290
     }
 ]

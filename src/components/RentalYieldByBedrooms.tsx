@@ -19,7 +19,6 @@ const RentalYieldByBedrooms = ({ data }) => {
 
   return (
     <div>
-   <em style={{fontSize:'13px'}}>*Rental yield measures the annual return on investment (ROI) for a rental property, expressed as a percentage of the property’s purchase price. It helps investors evaluate how much income they can generate from a rental property relative to its cost.</em>
       <Plot
         data={[
           {
@@ -27,7 +26,7 @@ const RentalYieldByBedrooms = ({ data }) => {
             y: chartData.map((d) => d.avgYield),
             type: "bar",
             name: "Rental Yield",
-            marker: { color: "green" },
+            marker: { color: "#6495ED" },
           },
         ]}
         layout={{

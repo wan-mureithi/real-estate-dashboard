@@ -19,7 +19,7 @@ const BreakEvenPeriodByCounty = ({ data }) => {
 
   return (
     <div>
-        <em>*Break-even period measures how long (in years) it would take for rental payments to equal the cost of purchasing a property.</em>
+       
       <Plot
         data={[
           {
@@ -27,7 +27,7 @@ const BreakEvenPeriodByCounty = ({ data }) => {
             y: chartData.map((d) => d.avgPeriod),
             type: "bar",
             name: "Break-even Period",
-            marker: { color: "orange" },
+            marker: { color: "#6495ED" },
           },
         ]}
         layout={{

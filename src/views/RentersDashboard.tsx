@@ -1,20 +1,10 @@
 import { useState } from "react";
-import Plot from "react-plotly.js";
 import RentByBedrooms from "../components/RentByBedrooms";
-import data from "../data/merged_data.json" 
+import data from "../data/merged_data_combined.json" 
 import BreakEvenChart from "../components/BreakEvenChart";
-import CountyComparison from "../components/CountyComparison";
+import InsightsIcon from '@mui/icons-material/Insights';
 import OpenInNewIcon from '@mui/icons-material/OpenInNew';
-// Sample Data
-const counties = ["Kajiado", "Kiambu", "Kilifi", "Mombasa", "Nairobi"];
-const propertyTypes = ["House", "Townhouse", "Villa"];
-const rentalData = [
-  [60000, 85000, 40000], // Kajiado
-  [194150, 193783, 286875], // Kiambu
-  [190833, 160875, 106875], // Kilifi
-  [197097, 104652, 132682], // Mombasa
-  [471935, 381737, 430822], // Nairobi
-];
+
 const bedroomOptions = [...new Set(data.map((item) => item.Bedrooms))];
 
 const RentersDashboard = () => {
@@ -76,12 +66,21 @@ const RentersDashboard = () => {
           <RentByBedrooms data={filteredData} />
         </div>
         <div>
-          <div style={{backgroundColor:'white',padding:'10px'}}>
+         <div style={{height:'350px'}}>
+         <div style={{backgroundColor:'white',padding:'10px'}}>
+         <p style={{color:'black', textAlign:'center', fontSize:'18px', margin:0 }}>
+<InsightsIcon sx={{mr:'5px'}}/>
+Key insights
+          </p>
             <ul style={{color:'black'}}>
               <li>Break-even period measures how long (in years) it would take for rental payments to equal the cost of purchasing a property.</li>
+              <li>
+              In Kajiado, it takes 12 years of rent to equal the average buying cost of a 3bedroom property
+              </li>
             </ul>
 
           </div>
+         </div>
           {/* <Plot
             data={[
               {

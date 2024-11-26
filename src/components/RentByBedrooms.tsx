@@ -20,7 +20,7 @@ const RentByBedrooms = ({data}) => {
       <Plot
         data={barData}
         layout={{
-          title: "Rental Prices by Bedrooms and County",
+          title: "Rental Prices by Property Type and County",
           xaxis: { title: "Property type" },
           yaxis: { title: "Rental Price (KES)" },
           barmode: "group",

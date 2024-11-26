@@ -21,25 +21,22 @@ const PriceComparisonByBedrooms = ({ data }) => {
 
   return (
     <div>
-      <h3>Sales vs Rental Prices by County</h3>
       <Plot
         data={[
-          // Bar chart for Sales Prices (y-axis 1)
           {
             x: chartData.map((d) => d.county),
             y: chartData.map((d) => d.avgSales),
             type: "bar",
             name: "Sales Price",
-            marker: { color: "red" },
+            marker: { color: "#6495ED" },
             yaxis: "y1", // Link this to y-axis 1
           },
-          // Bar chart for Rental Prices (y-axis 2)
           {
             x: chartData.map((d) => d.county),
             y: chartData.map((d) => d.avgRent),
-            type: "bar",
+            type: "line",
             name: "Rental Price",
-            marker: { color: "blue" },
+            marker: { color: "#191970" },
             yaxis: "y2", // Link this to y-axis 2
           },
         ]}
@@ -48,17 +45,17 @@ const PriceComparisonByBedrooms = ({ data }) => {
           xaxis: { title: "County" },
           yaxis: {
             title: "Average Sales Price (KES)",
-            titlefont: { color: "red" },
-            tickfont: { color: "red" },
+            titlefont: { color: "#6495ED" },
+            tickfont: { color: "#6495ED" },
           },
           yaxis2: {
             title: "Average Rental Price (KES)",
-            titlefont: { color: "blue" },
-            tickfont: { color: "blue" },
+            titlefont: { color: "#191970" },
+            tickfont: { color: "#191970" },
             overlaying: "y", // Overlay this axis on y1
             side: "right", // Position this axis on the right
           },
-          barmode: "group", // Group bars together
+          //barmode: "group", // Group bars together
         }}
       />
     </div>

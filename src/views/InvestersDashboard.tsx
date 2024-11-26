@@ -14,7 +14,7 @@ const InvestorsDashboard = () => {
 
 
   return (
-    <div style={{ width:'100%', padding:'20px' }}>
+    <div style={{padding:'0 15px'}}>
       <h2>Investors Dashboard</h2>
       <div style={{ marginBottom: "20px" }}>
         <label htmlFor="bedroomFilter">Filter by Number of Bedrooms: </label>
